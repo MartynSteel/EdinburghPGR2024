@@ -3,10 +3,10 @@
 Repository of workbooks to support the delivery of my Edinburgh School of Geosciences PGR Conference poster titled "<i>Implication of non-Gassmann effects for CO2 monitoring</i>"
 
 This repository consists of:
-- (1) All about CO2 and CCS
+- <href="https://github.com/MartynSteel/EdinburghPGR2024/blob/main/00_all_about_co2_and_ccs.ipynb>(1) All about CO2 and CCS</href>
 - (2) Baseline surveys and the Endurance Field
 - (3) Rock Physics Modelling
-- (4) Seismic simulations and their implications
+- (4) Seismic simulat>ions and their implications
 - A folder of additional output images
 
 #### Acknowledgements
