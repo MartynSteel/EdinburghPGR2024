@@ -4,7 +4,7 @@ Repository of workbooks to support the delivery of my Edinburgh School of Geosci
 
 This repository consists of:
 - [(1) All about CO2 and CCS](https://github.com/MartynSteel/EdinburghPGR2024/blob/main/01_all_about_co2_and_ccs.ipynb)
-- (2) Baseline Surveys and the Endurance Field
+- [(2) Baseline Surveys and the Endurance Field](https://github.com/MartynSteel/EdinburghPGR2024/blob/main/02_baseline_surveys_and_the_endurance_field.ipynb)
 - (3) Gassmann and Beyond
 - (4) From Rock Physics to Seismic Simulations
 - A folder of additional output images
