@@ -8,7 +8,7 @@ This repository consists of:
 - [(03) Gassmann and Beyond](https://github.com/MartynSteel/EdinburghPGR2024/blob/main/03_gassmann_and_beyond.ipynb)
 - [(04) From Rock Physics to Seismic Simulations](https://github.com/MartynSteel/EdinburghPGR2024/blob/main/04_from_rock_physics_to_seismic_simulations.ipynb)
 - [The PGR Conference Poster](https://github.com/MartynSteel/EdinburghPGR2024/blob/main/PGR_2024_Poster.pdf)
-- A folder of additional output images
+- [A folder of additional output images](https://github.com/MartynSteel/EdinburghPGR2024/tree/main/additional_figures)
 - A full reference list
 
 #### Acknowledgements
