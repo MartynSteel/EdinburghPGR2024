@@ -5,7 +5,7 @@ Repository of workbooks to support the delivery of my Edinburgh School of Geosci
 This repository consists of:
 - [(01) All about CO2 and CCS](https://github.com/MartynSteel/EdinburghPGR2024/blob/main/01_all_about_co2_and_ccs.ipynb)
 - [(02) Baseline Surveys and the Endurance Field](https://github.com/MartynSteel/EdinburghPGR2024/blob/main/02_baseline_surveys_and_the_endurance_field.ipynb)
-- [(03) Gassmann and Beyond](https://github.com/MartynSteel/EdinburghPGR2024/blob/main/03_gassmann_and_beyond.ipynb)
+- [(03) Gassmann and Beyond](https://github.com/MartynSteel/EdinburghPGR2024/blob/main/03_gassmann_and_beyond.ipynb) (In progress)
 - [(04) From Rock Physics to Seismic Simulations](https://github.com/MartynSteel/EdinburghPGR2024/blob/main/04_from_rock_physics_to_seismic_simulations.ipynb)
 - [The PGR Conference Poster](https://github.com/MartynSteel/EdinburghPGR2024/blob/main/PGR_2024_Poster.pdf)
 - [A folder of additional output images](https://github.com/MartynSteel/EdinburghPGR2024/tree/main/additional_figures)
