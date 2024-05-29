@@ -7,6 +7,7 @@ This repository consists of:
 - [(2) Baseline Surveys and the Endurance Field](https://github.com/MartynSteel/EdinburghPGR2024/blob/main/02_baseline_surveys_and_the_endurance_field.ipynb)
 - (3) Gassmann and Beyond
 - (4) From Rock Physics to Seismic Simulations
+- [The PGR Conference Poster](https://github.com/MartynSteel/EdinburghPGR2024/blob/main/PGR_2024_Poster.pdf)
 - A folder of additional output images
 - A full reference list
 
